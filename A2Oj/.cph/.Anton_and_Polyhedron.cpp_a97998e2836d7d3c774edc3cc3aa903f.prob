@@ -1,0 +1,1 @@
+{"name":"Local: Anton_and_Polyhedron","url":"c:\\Users\\sarna\\c++\\web\\C++\\A2Oj\\Anton_and_Polyhedron.cpp","tests":[{"id":1677033049240,"input":"4\nIcosahedron\nCube\nTetrahedron\nDodecahedron\n","output":"42"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sarna\\c++\\web\\C++\\A2Oj\\Anton_and_Polyhedron.cpp","group":"local","local":true}
